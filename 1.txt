@@ -3,4 +3,8 @@ Git is free software.test first second
 git is good
 
 git tracks changes of files one  1 2 3
-creating a new branch is quick & simple.
+<<<<<<< HEAD
+creating a new branch is quick and simple
+=======
+creating a new branch is quick and simple
+>>>>>>> fature1
